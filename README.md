@@ -13,4 +13,4 @@ Coming soon…
 - Registry support (future)
 
 ## Website
-https://medan-org.github.io/Medan
+https://medan-org.github.io
