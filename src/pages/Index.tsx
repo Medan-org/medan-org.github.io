@@ -1,4 +1,6 @@
 // src/pages/Index.tsx
+import { Link } from "react-router-dom";
+
 export default function Index() {
   return (
     <main className="home">
@@ -18,7 +20,9 @@ export default function Index() {
 
       <section>
         <h2>Install</h2>
-        <p>Coming soon…</p>
+        <p>
+          <Link to="/install">Go to install page →</Link>
+        </p>
       </section>
     </main>
   );
